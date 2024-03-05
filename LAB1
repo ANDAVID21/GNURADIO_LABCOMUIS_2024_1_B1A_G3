@@ -1,7 +1,0 @@
-echo "# GNURADIO_LABCOMUIS_2024_1_B1A_G3" >> LAB1
-git init
-git add LAB1
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/ANDAVID21/GNURADIO_LABCOMUIS_2024_1_B1A_G3.git
-git push -u origin main
